@@ -1,0 +1,193 @@
+﻿
+/*TOP HEADER*/
+.topHeader{
+    background-color:#CDCFCD;
+    text-align:center;
+    margin-top:0px;
+    height:200px;
+}
+
+
+.title{
+    color:black;
+    font-weight:200;
+    padding-top:75px;
+}
+
+/*NAV BAR*/
+
+.nav.navbar-nav{
+     display:inline-block;
+     float:none;
+     vertical-align:top;
+}
+
+.navbar.navbar-collapse {
+  text-align:center;
+  
+}
+
+
+.pageList{
+    text-align:center;
+}
+
+.leftLogo{
+    padding:0px;
+    margin:0px;
+}
+
+/*BODY*/
+
+body {
+    font-family: 'Electrolize', sans-serif;
+    color:white;
+    background-color:black;
+}
+
+/*LARGE PICTURES*/
+
+.lgEnterprise {
+    background-image: url('../images/Enterprise_NCC-1701-D_cutaway_poster.jpg');
+    background-repeat: no-repeat;
+    background-color: black;
+    height: 489px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.picard {
+    height:489px;
+    background-image: url('../images/CaptianPicard.jpg');
+    background-color: black;
+    background-repeat:no-repeat;
+    margin:0px;
+    padding:0px;
+ 
+}
+
+    /*THUMBNAILS*/
+.btn.btn-primary.btn-lg.active{
+    background-color:black;
+}
+#tour {
+    margin-top: 375px;
+    margin-right: 50px;
+}
+.btn-btm{
+    position: absolute;
+    bottom: 0;
+    left:85px;
+}
+
+  
+.rowOne{
+   padding:0px;
+    }
+
+.overBox{
+  font-size:20px;
+  text-align:center;
+  margin-top:165px;
+  padding-left:10px;
+ }
+
+
+.thumbnail{
+   background-color:black;
+   border:none;
+   color: white;
+   
+}
+
+col-sm-6 col-md-3{
+    
+    margin:0px;
+    padding:0px;
+}
+
+.testBox{
+    margin:0px;
+    padding:0px;
+    
+}
+#photo1 {
+    background-image: url('../images/ricker364.JPG');
+    background-position:center;
+    background-repeat:no-repeat;
+    height:436px;
+    margin:0px;
+    padding:0px;
+   }
+
+.photo2 {
+    background-image: url('../images/troi364.JPG');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 436px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.photo3 {
+    background-image: url('../images/jordy364.JPG');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 436px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.photo4 {
+    background-image: url('../images/data364.JPG');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 436px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.photo5 {
+    background-image: url('../images/worf364.JPG');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 436px;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.photo6 {
+    background-image: url('../images/doc364.JPG');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 436px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.photo7 {
+    background-image: url('../images/Starfleet_command_emblem.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 436px;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+    /*FOOTER*/
+
+leftIcon{
+    position:absolute;
+    margin-left:0px;
+}
+
+.panel-footer{
+     background-color:#F2F2F2;
+
+}
+.footerText{
+     color:black;
+     position:center
+ }
